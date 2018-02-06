@@ -1,5 +1,9 @@
 My name is Kyounghee
 My favorite color is green
+<<<<<<< HEAD
 My favorite food is banana
+=======
+My favorite food is apple
+>>>>>>> fd77e3695f722482e3b5a14010bb90380702073b
 My favorite book is no book
 My best friend is Audrey
